@@ -156,6 +156,7 @@ public class SwipeLayout extends FrameLayout {
         mSwipeDeniers.remove(denier);
     }
 
+
     public void removeAllSwipeDeniers() {
         mSwipeDeniers.clear();
     }
